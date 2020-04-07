@@ -1,0 +1,67 @@
+[
+    {
+        "1": "What kind of a thinker you are?",
+        "2": "Do you like to be constantly challenged?",
+        "3": "Are you toerant and patient?",
+        "4": "How about your memory?",
+        "5": "Are you a systematic worker?",
+        "6": "Are you pondering on how this is made possible? If yes, which one do you want to know more about?",
+        "7": "Have you ever wondered how Youtube suggests personalised recommended videos to you?It is made possible by the use of Artificial Neural Network, wifi is inspired from the human neural network.Which neural network would you like to explore more?",
+        "8": "In 2017, NASA scientists isolated a new bacteria from the International Space Station (ISS) under the influence of micro-gravity and named it Bacillus Kalami in the honor of Dr. APJ Abdul Kalam. Which one interests you more?",
+        "9": "Consider that you are in a dark room looking into the mobile. When a bright light is turned on, both your pupil and the screen brightness get adjusted accordingly.Which one would you like to explore more",
+        "10": "You might have observed a slimy layer of green algae near a leaky tap. One way to solve this is to use Lotusean paints ( hydrophobic paints, inspired from Lotus leaf). Which one would you like to know more about?"
+    },
+    {
+        "1": {
+            "a": "Abstract",
+            "b": "...",
+            "c": "...",
+            "d": "Solid"
+        },
+        "2": {
+            "a": "Yes, it keeps me going ",
+            "b": "...",
+            "c": "...",
+            "d": "No, not always"
+        },
+        "3": {
+            "a": "Yes, very much",
+            "b": "...",
+            "c": "...",
+            "d": "No, not so"
+        },
+        "4": {
+           "a": "Pretty good",
+            "b": "...",
+            "c": "...",
+            "d": "Can't say"
+        },
+        "5": {
+           "a": "Yes, always",
+            "b": "...",
+            "c": "...",
+            "d": "No, never"
+        },
+        "6": {
+            "a": "What makes the road glow in the dark?",
+            "b": "What makes the firefly glow in the dark?"
+            },
+        "7": {
+            "a": "The neural network of the human body",
+            "b": "The neural network of the computing systems"
+             },
+        "8": {
+            "a": "The generation of microgravity on the ISS",
+            "b": "The sustenance of bacteria under microgravity"
+             },
+        "9": {
+            "a": "The way pupils get constricted",
+            "b": "The way auto brightness works on the mobile"
+            },
+        "10": {
+            "a": "The one that makes the paint, water repellent",
+            "b": "The one that makes lotus leaf, water repellent"
+              }
+    }
+    
+]
